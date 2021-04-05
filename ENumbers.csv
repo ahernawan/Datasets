@@ -1,0 +1,245 @@
+﻿Number,Name,Description,Halal Status
+e100,Curcumin/Turmeric,Color,"Halal if pure grind turmeric powder or granular. Mushbooh if used as liquid, the solvents has to be Halal. Haraam if hidden ingredient is pork fat based emulsifier in dry mix."
+e101,Riboflavin (Vitamin B2),Color,"Mushbooh (Haraam if from pork liver & Kidney, Halal if 100% plant material"
+e102,Tartrazine,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e104,Quinoline Yellow,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent other than water has to be Halal"
+e107,Yellow 2G,Colors,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e110,Sunset Yellow FCF / Orange Yellow S,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e120,Cochineal / Carminic Acid,Color,Haraam according to Hanafi Fiqqah
+e122,Carmoisine / Azorubine,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e123,Amaranth,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e124,Ponceau 4R / Cochineal Red A,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e127,Erythrosine BS,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e128,Red 2G,Colors,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e131,Patent Blue V,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e132,Indigo Carmine / Idigotine,Color,Halal if use as is as a 100% synthetic color but if pork glycerin is added as a solvent then it is Haraam
+e133,Brilliant Blue FCF,Colors,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e140,Chlorophyll,Color,Halal if use 100% powder or Halal if water or vegetable oil was used as a solvent
+e141,Copper Complex of Chlorophyll,Color,Halal if use 100% powder or Halal if water or vegetable oil was used as a solvent
+e142,Green S / Acid Brilliant Green BS,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e150a,Caramel Color/with chemicals,Color,Halal
+e150b,Caramel Color/with chemicals,Color,Halal
+e150c,Caramel Color/with chemicals,Color,Halal
+e150d,Caramel Color/with chemicals,Color,Halal
+e151,Black PN / Brilliant Black BN,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e153,Carbon Black / Vegetable Carbon (Charcoal),Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e154,Brown FK,Colors,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e155,Brown HT,Colors,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e160a,"Alpha, Beta, Gamma",Color - Carotene,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e160b,"Annatto, Bixin, Norbixin",Color - Carotene,Halal
+e160c,Capsanthin / Capsorbin,Color- Carotene,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e160d,Lycopene,Color - Carotene,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e160e,Beta-apo-8-carotenal,Color - Carotene,Halal if used as 100% dry powder or granular or Halal if vegetable oil is used as a solvent in liquid form as a hidden ingredient. Haraam if pork gelatin is used as hidden ingredient or carrier
+e160f,Ethyl ester of Beta-apo-8-cartonoic acid,Color - Carotene,Halal if used as 100% dry powder or granular or Halal if vegetable oil is used as a solvent in liquid form as a hidden ingredient. Haraam if pork gelatin is used as hidden ingredient or carrier
+e161a,Flavoxanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e161b,Lutein,Color,Halal if used as 100% dry powder or granular. Haraam if pork gelatin or pork glycerin is added in dry or liquid form
+e161c,Cryptoxanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e161d,Rubixanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e161e,Violaxanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e161f,Rhodoxanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e161g,Canthaxanthin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e162,Beetroot Red / Betanin,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e163,Anthocyanins,Color,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e170,Calcium Carbonate (Chalk),Color - Inorganic,"Halal if obtained from rock mineral and used as 100% dry powder or granular. Mushbooh if used as liquid, solvent has to be Halal"
+e171,Titanium Dioxide,Color - Inorganic,Halal
+e172,Iron Oxides and Hydroxides,Color - Inorganic,Halal
+e173,Aluminium,Color - Inorganic,Halal
+e174,Silver,Color - Inorganic,Halal
+e175,Gold,Color - Inorganic,Halal
+e180,Pigment Rubine / Lithol Rubine BK,Color - Inorganic,"Halal if used as 100% dry color. Mushbooh if used as liquid color, the solvent has to be Halal"
+e200,Sorbic Acid,Preservative,Halal
+e201,Soduim Sorbate,Preservative,Halal
+e202,Potassium Sorbate,Preservative,Halal
+e203,Calcium Sorbate,Preservative,Halal
+e210,Benzoic Acid,Preservative,Halal
+e211,Sodium Benzoate,Preservative,Halal
+e212,Potassium Benzoate,Preservative,Halal
+e213,Calcium Benzoate,Preservative,"Halal, if calcium obtained from mineral, Mushbooh if it is obtained from bones."
+e214,Ethyl 4-hydroxybenzoate,Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e215,"Ethyl 4-hydroxybenzoate, Sodium Salt",Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e216,Propyl 4-hydroxybenzoate,Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e217,"Propyl 4-hydroxybenzoate, Sodium Salt",Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e218,Methyl 4-hydroxybenzoate,Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e219,"Methyl 4-hydroxybenzoate, Sodium Salt",Preservative,"Halal, if used as 100% dry powder or granular. Haraam if alcohol is used as a solvent"
+e220,Sulphur Dioxide,Preservative,Halal
+e221,Sodium Sulphite,Preservative,Halal
+e222,Sodium Hydrogen Sulphite,Preservative,Halal
+e223,Sodium Metabisulphite,Preservative,Halal
+e224,Potassium Metabisulphite,Preservative,Halal
+e226,Calcium Sulphite,Preservative,Halal
+e227,Calcium Hydrogen Sulphite,Preservative,"Halal, if calcium is obtained from mineral or chemicals. Mushbooh if it is obtained from bones."
+e230,Biphenyl / Diphenyl,Preservative,"Halal, if no alcohol is used as a solvent"
+e231,2-Hydroxybiphenyl,Preservative,"Halal, if no alcohol is used as a solvent"
+e232,Sodium Biphenyl-2-yl Oxide,Preservative,"Halal, if no alcohol is used as a solvent"
+e233,2-(Thiazol-4-yl) Benzimidazole,Preservative,"Halal, if no alcohol is used as a solvent"
+e234,Nisin,Preservative - other,Halal
+e239,Hexamine,Preservative - other,Halal
+e249,Potassium Nitrate,Preservative,Halal
+e250,Sodium Nitrite,Preservative,Halal
+e251,Sodium Nitrate,Preservative,Halal
+e252,Potassium Nitrate(Saltpetre),Preservative,Halal
+e260,Acetic Acid,Miscellaneous - Acids,Halal
+e261,Potassium Acetate,Miscellaneous - Acids,Halal
+e262,Potassium Hydrogen Diacetate,Miscellaneous - Acids,Halal
+e262,Sodium Acetate,Miscellaneous - Acids and their Salts,Halal
+e263,Calcium Acetate,Miscellaneous - Acids,Halal
+e270,Lactic Acid,Miscellaneous - Acids,Halal if obtained other than whey. In USA it is always from non dairy source.
+e280,Propionic Acid,Preservative - Acids,Halal
+e281,Sodium Propionate,Preservative- Acids,Halal
+e282,Calcium Propionate,Preservative- Acids,"Halal if calcium obtained from mineral, Mushbooh if it obtained from bones"
+e283,Potassium Propionate,Preservative- Acids,Halal
+e290,Carbon Dioxide,Miscellaneous,Halal
+e296,Malic Acid,Miscellaneous - Acids and their Salts,Halal
+e297,Fumaric Acid,Miscellaneous - Acids and their Salts,Halal
+e300,L-Ascorbic Acid (Vitamin C),Antioxidants- Vitamin C,Halal
+e301,Sodium-L-Ascorbate,Antioxidants- Vitamin C and derivatives,Halal
+e302,Calcium-L-Ascorbate,Antioxidants- Vitamin C and derivatives,"Halal, if the calcium source is from mineral, Mushbooh if it is from bones"
+e304,Ascorbyl Palmitate,Antioxidants- Vitamin C and derivatives,Halal if saturated fatty acid Palmitic acid is obtained from plant. Haraam if palmitic acid is obtained from pork fat
+e306,Natural Extracts rich in Tocopherols,Antioxidants- Vitamin E,Halal If Tocopherol is obtained from plant fat. Haraam if Tocopherol is obtained from pork fat
+e307,Synthetic Alpha-Tocopherol,Antioxidants- Vitamin E,Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method
+e308,Synthetic Gamma-Tocopherol,Antioxidants- Vitamin E,Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method
+e309,Synthetic Delta-Tocopherol,Antioxidants- Vitamin E,Halal only if it is made with all Halal synthetic material without alcoholic fermentation synthetic method
+e310,Propyl Gallate,Antioxidants- other,Halal
+e311,Octyl Gallate,Antioxidants- other,Halal if obtained from nutgalls or plant secretion
+e312,Dodecyl Gallate,Antioxidants- other,Halal if obtained from nutgalls or plant secretion. Haraam if alcohol was used as solvent
+e320,Butylated Hydroxyanisole (BHA),Antioxidants- other,Halal if only vegetable oil is used as a carrier. Haraam if the carrier is from pork fat. It is not available as pure 100% chemical.
+e321,Butylated Hydroxytoluene (BHT),Antioxidants- other,Halal if only vegetable oil is used as a carrier. Haraam if the carrier is from pork fat. It is not available as pure 100% chemical.
+e322,Lecithin,Emulsifiers and Stabilizers,Halal if obtained from soy fat or egg yolk in Europe. It is Halal in USA because it is always obtained from soy fat.
+e325,Sodium Lactate,Miscellaneous - Salts of Lactic Acid,Halal if the lactic acid from non dairy source
+e326,Potassium Lactate,Miscellaneous - Salts of Lactic Acid,Halal if the lactic acid from non dairy source
+e327,Calcium Lactate,Miscellaneous - Salts of Lactic Acid,Halal if the lactic acid from non dairy source and calcium from mineral
+e330,Citric Acid,Miscellaneous - Citric Acid and its Salts,Halal
+e331,Sodium Citrates,Miscellaneous - Citric Acid and its Salts,Halal
+e332,Potassium Citrates,Miscellaneous - Citric Acid and its Salts,Halal
+e333,Calcium Citrates,Miscellaneous - Citric Acid and its Salts,Halal if calcium source is not from bones
+e334,Tartaric Acid,Miscellaneous - Tartaric Acid and its Salts,"Halal, if it is not obtained from wine by-product, in USA it is Halal because it is obtained from un-fermented grapes."
+e335,Sodium Tartrates,Miscellaneous - Tartaric Acid and its Salts,"Halal, if it is not obtained from wine by-product, in USA it is Halal because it is obtained from un-fermented grapes."
+e336,Potassium Tartrates (Cream of Tartar),Miscellaneous - Tartaric Acid and its Salts,"Halal, if it is not obtained from wine by-product, in USA it is Halal because it is obtained from un-fermented grapes."
+e337,Potassium Sodium Tartrates,Miscellaneous - Tartaric Acid and its Salts,"Halal, if it is not obtained from wine by-product, in USA it is Halal because it is obtained from un-fermented grapes."
+e338,Orthophosphoric Acid,Miscellaneous - Phosphoric Acid and its Salts,Halal
+e339,Sodium Phosphates,Miscellaneous - Phosphoric Acid and its Salts,Halal
+e340,Potassium Phosphates,Miscellaneous - Phosphoric Acid and its Salts,Halal
+e341,Calcium Phosphates,Miscellaneous - Phosphoric Acid and its Salts,Halal if calcium from mineral source
+e350,Sodium Malate,Miscellaneous - Salts of Malic Acid,Halal
+e351,Potassium Malate,Miscellaneous - Salts of Malic Acid,Halal
+e352,Calcium Malate,Miscellaneous - Salts of Malic Acid,Halal
+e353,Metataric Acid,Miscellaneous - Salts of Malic Acid,Halal
+e355,Adipic Acid,Miscellaneous - Salts of Malic Acid,Halal
+e363,Succinic Acid,Miscellaneous - Salts of Malic Acid,Halal
+e370,"1,4-Heptonolactane",Miscellaneous - Salts of Malic Acid,Halal
+e375,Nicotinic Acid,Miscellaneous - Salts of Malic Acid,Halal
+e380,Triammonium Citrate,Miscellaneous - Salts of Malic Acid,Halal
+e381,Ammonium Ferric Citrate,Miscellaneous - Salts of Malic Acid,Halal
+e385,Calcium Disodium EDTA,Miscellaneous - Salts of Malic Acid,Halal
+e400,Alginic Acid,Emulsifiers and Stabilizers - Alginates,Halal
+e401,Sodium Alginate,Emulsifiers and Stabilizers - Alginates,Halal
+e402,Potassium Alginate,Emulsifiers and Stabilizers - Alginates,Halal
+e403,Ammonium Alginate,Emulsifiers and Stabilizers - Alginates,Halal
+e404,Calcium Alginate,Emulsifiers and Stabilizers - Alginates,Halal if calcium source is from mineral
+e405,"Propane-1,2-Diol Alginate",Emulsifiers and Stabilizers - Alginates,Halal
+e406,Agar,Emulsifiers and Stabilizers - other plant gums,Halal
+e407,Carrageenan,Emulsifiers and Stabilizers - other plant gums,Halal
+e410,Locust Bean Gum (Carob Gum),Emulsifiers and Stabilizers - other plant gums,Halal
+e412,Guar Gum,Emulsifiers and Stabilizers - other plant gums,Halal
+e413,Tragacanth,Emulsifiers and Stabilizers - other plant gums,Halal.
+e414,Gum Acacia (Gum Arabic),Emulsifiers and Stabilizers - other plant gums,Halal
+e415,Xanthan Gum,Emulsifiers and Stabilizers - other plant gums,Halal
+e416,Karaya Gum,Emulsifiers and Stabilizers,Halal
+e420,Sorbitol,Sugar Alcohols,Halal
+e421,Mannitol,Sugar Alcohols,Halal
+e422,Glycerol,Sugar Alcohols,"Mushbooh, called Glycerin in USA, Halal if it is from plant fat, Haraam if it is from pork fat"
+e430,Polyoxyethane (8) Stearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e431,Polyoxyethane (40) Stearate,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e432,Polyoxyethane (20) Sorbitan / Polysorbate 20,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e433,Polyoxyethane (20) Sorbitan Mono-oleate / Polysorbate 80,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e434,Polyoxyethane (20) Sorbitan Monopalmitate / Polysorbate 40,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e435,Polyoxyethane (20) Sorbitan Monostearate / Polysorbate 60,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e436,Polyoxyethane (20) Sorbitan Tristearate / Polysorbate 65,Emulsifiers and Stabilizers - Fatty Acid derivatives,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e440a,Pectin,Emulsifiers and Stabilizers - Pectin and derivatives,Halal
+e440b,Amidated Pectin,Emulsifiers and Stabilizers - Pectin and derivatives,Halal
+e450a,Sodium and Potassium Phosphates and Polyphosphates,Miscellaneous,Halal
+e450b,Sodium and Potassium Phosphates and Polyphosphates,Miscellaneous,Halal
+e450c,Sodium and Potassium Phosphates and Polyphosphates,Miscellaneous,Halal
+e460,Microcrystalline / Powdered Cellulose,Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e461,Methylcellulose,Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e463,Hydroxypropylcellulose,Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e464,Hydroxypropyl-Methylcellulose,Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e465,Ethylmethylcellulose,Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e466,"Carboxymethylcellulose, Sodium Salt",Emulsifiers and Stabilizers - Cellulose and derivatives,Halal
+e470,"Sodium, Potassium and Calcium Salts of Fatty Acids",Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+e471,Mono-and Diglycerides of Fatty Acids,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+e472,Various Esters of Mono-and Diglycerides of Fatty Acids,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from porkl fat"
+e473,Sucrose Esters of Fatty Acids,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e474,Sucroglycerides,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e475,Polyglycerol Esters of Fatty Acids,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e476,Polyglycerol Esters of Polycondensed Esters of Caster Oil,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e477,"Propane-1,2-Diol Esters of Fatty Acids",Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e478,"Lactylated Fatty Acid Esters of Glycerol and Propane-1,2-Diol",Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e481,Sodium Stearoyl-2-Lactylate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e482,Calcium Stearoyl-2-Lactylate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e483,Stearyl Tartrate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Mushbooh, Halal if it is from plant fat, Haraam if it is from pork fat"
+e491,Sorbitan Monostearate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e492,Sorbitan Tristearate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e493,Sorbitan Monolaurate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e494,Sorbitan Mono-oleate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e495,Sorbitan Monopalmitate,Emulsifiers and Stabilizers - salts or Esters of Fatty Acids,"Halal if it is 100% from plant fat, Haraam if it is from pork fat"
+e500,Sodium Carbonate / Sodium Bicarbonate,Miscellaneous - Acids and Salts: Carbonates,Halal
+e501,Potassium Carbonate / Potassium Bicarbonate,Miscellaneous - Acids and Salts: Carbonates,Halal
+e503,Ammonium Carbonate,Miscellaneous - Acids and Salts: Carbonates,Halal
+e504,Magnesium Carbonate,Miscellaneous - Acids and Salts: Carbonates,Halal
+e507,Hydrochloric Acid,Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts,Halal
+e508,Potassium Chloride,Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts,Halal
+e509,Calcium Chloride,Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts,Halal
+e510,Ammonium Chloride,Miscellaneous - Acids and Salts: Hydrochloric Acid and its Salts,Halal
+e513,Sulphuric Acid,Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts,Halal
+e514,Sodium Sulphate,Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts,Halal
+e515,Potassium Sulphate,Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts,Halal
+e516,Calcium Sulphate,Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts,Halal
+e518,Magnesium Sulphate,Miscellaneous - Acids and Salts: Sulphuric Acid and its Salts,Halal
+e524,Sodium Hydroxide,Miscellaneous - Alkalis,Halal
+e525,Potassium Hydroxide,Miscellaneous - Alkalis,Halal
+e526,Calcium Hydroxide,Miscellaneous - Alkalis,Halal
+e527,Ammonium Hydroxide,Miscellaneous - Alkalis,Halal
+e528,Magnesium Hydroxide,Miscellaneous - Alkalis,Halal
+e529,Calcium Oxide,Miscellaneous - Alkalis,Halal
+e530,Magnesium Oxide,Miscellaneous - Alkalis,Halal
+e535,Sodium Ferrocyanide,Miscellaneous - other Salts,Halal
+e536,Potassium Ferrocyanide,Miscellaneous - other Salts,Halal
+e540,Dicalcium Ferrocyanide,Miscellaneous - other Salts,Halal
+e541,Sodium Aluminium Phosphate,Miscellaneous - other Salts,Halal
+e542,Edible Bone Phosphate (Bone-Meal),Miscellaneous - Anti-Caking Agents,Haraam if the bones from pig
+e544,Calcium Polyphosphates,Miscellaneous - Anti-Caking Agents,"Mushbooh, Halal if it is from minerals, Haraam if it is from pig bones"
+e545,Ammonium Polyphosphates,Miscellaneous - Anti-Caking Agents,Halal
+e551,Silicon Dioxide (Silica Salt),Miscellaneous - Silicon Salts,Halal
+e552,Calcium Silicate,Miscellaneous - Silicon Salts,Halal
+e553,Magnesium Silicate / Magnesium Trisilicate (Talc),Miscellaneous - Silicon Salts,Halal
+e554,Aluminium Sodium Silicate,Miscellaneous - Silicon Salts,Halal
+e556,Aluminium Calcium Silicate,Miscellaneous - Silicon Salts,"Mushbooh, Halal if calcium from mineral rocks, Haraam if calcium from pig bones"
+e558,Bentonite,Miscellaneous - other compounds,Halal
+e559,Kaolin (Aluminium Silicate),Miscellaneous - other compounds,Halal
+e570,Stearic Acid,Miscellaneous - other compounds,"Mushbooh, Halal if the source is from plant fat, Haraam if it is from pork fat"
+e572,Magnesium Stearate,Miscellaneous - other compounds,"Mushbooh, Halal if the source is from plant fat, Haraam if it is from pork fat"
+e575,Glucono Delta-Lactone,Miscellaneous - other compounds,Halal
+e576,Sodium Gluconate,Miscellaneous - other compounds,Halal
+e577,Potassium Gluconate,Miscellaneous - other compounds,Halal
+e578,Calcium Gluconate,Miscellaneous - other compounds,Halal
+e620,L-Glutamic Acid,Miscellaneous - Flavour Enhancers,"Mushbooh, Halal if it is from plant protein, Haraam if it is from pig protein"
+e621,Monosodium Glutamate (MSG),Miscellaneous - Flavour Enhancers,"Mushbooh, Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+e622,Monopotassium Glutamate,Miscellaneous - Flavour Enhancers,"Mushbooh, Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+e623,Calcium Glutamate,Miscellaneous - Flavour Enhancers,"Mushbooh, Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat"
+e627,Sodium Guanylate,Miscellaneous - Flavour Enhancers,"Halal if it is obtained from sardines or baker's yeast extract. Mushbooh if it is made from brewer yeast extract, a by-product of beer making"
+e631,Sodium Inosinate,Miscellaneous - Flavour Enhancers,"Halal if it is obtained from sardines. Mushbooh if it is made from brewer yeast extract, a by-product of beer making. Haraam if it is extracted from pig meat."
+e635,Sodium5-Ribonucleotide,Miscellaneous - Flavour Enhancers,"Mushbooh, it is a combination of E N 627 and EN 631"
+e636,Maltol,Miscellaneous - Flavour Enhancers,Halal
+e637,Ethyl Maltol,Miscellaneous - Flavour Enhancers,Halal
+e900,Dimethylpolysiloxane,Miscellaneous - Flavour Enhancers,Halal
+e901,Beeswax,Miscellaneous - Glazing Agents,Halal
+e903,Carnauba Wax,Miscellaneous - Glazing Agents,Halal
+e904,Shellac,Miscellaneous - Glazing Agents,"Halal if no if it is not treated with alcohol, two types of shellac is available, the Halal type is not treated with alcohol but other type is treated with alcohol. A gummy secretion material from the pores of a insect Coccus lacca that feed on Palas trees in India and South Asia. This gummy material is called Lac. Manufactured by Indian companies."
+e905,Mineral Hydrocarbons,Miscellaneous - Glazing Agents,Halal
+e907,Refined Microcrystalline Wax,Miscellaneous - Glazing Agents,"Mushbooh, Halal if obtained from plant fat wax. Haraam if it is obtained from pork fat wax"
+e920,L-Cysteine Hydrochloride,Miscellaneous - Compounds used to treat Flour,"Mushbooh, Haraam if it is obtained from human hair, Halal if it is made from Halal synthetic material. The third source is from chicken/duck feathers. There is difference of opinions among different Islamic scholars. One school of ulema says it is Halal the other says not Halal."
+e924,Potassium Bromate,Miscellaneous - Compounds used to treat Flour,Halal
+e925,Chlorine,Miscellaneous - Compounds used to treat Flour,Halal
+e926,Chlorine Dioxide,Miscellaneous - Compounds used to treat Flour,Halal
+e927,Azodicarbonamide,Miscellaneous - Compounds used to treat Flour,Halal
