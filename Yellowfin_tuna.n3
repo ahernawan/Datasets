@@ -1,0 +1,513 @@
+@prefix dbo:	<http://dbpedia.org/ontology/> .
+@prefix dbr:	<http://dbpedia.org/resource/> .
+dbr:Mercury_in_fish	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Seafood	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_industry_in_the_United_States	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Batangas	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Geography_of_Guam	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Spearfishing	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Salt_Water_Sportsman	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Feng_Sushi	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Wildlife_of_North_Carolina	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Balesin_Island	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ginataang_isda	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Argonauta_bottgeri	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_tuna_dishes	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_marine_Perciform_fishes_of_South_Africa	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Burhop\u0027s_Seafood>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:National_symbols_of_the_Maldives	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Blue_Planet_II	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Oceans_(film)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/South_Pacific_(TV_series)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Planet_Earth_(2006_TV_series)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Atlantic_bluefin_tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_industry_in_the_Maldives	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_industry_in_the_Marshall_Islands	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Quota_Management_System	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Capricorn_Seamount	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Department_of_Agriculture,_Forestry_and_Fisheries_(Niue)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Industries_in_Maldives	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix dbp:	<http://dbpedia.org/property/> .
+dbr:Thunnus	dbp:imageCaption	dbr:Yellowfin_tuna ;
+	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fastest_animals	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Whoa_Nellie_Deli	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Clean_Seas	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Palauan_language	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/L\u00E9vy_flight>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix ns3:	<http://dbpedia.org/resource/Deadliest_Catch:> .
+ns3:_Bloodline	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix ns4:	<http://dbpedia.org/resource/Top_Chef:> .
+ns4:_New_York	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Dorsal_fin	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Squid	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Sibitrema_poonui	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Diversity_of_fish	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Bay_of_Bengal	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Brix_Tavern	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Pedas\u00ED_District>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Man_v._Food_Nation>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix ns5:	<http://dbpedia.org/resource/Whakaari_/> .
+ns5:_White_Island	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Manihiki	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Garudiya	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix foaf:	<http://xmlns.com/foaf/0.1/> .
+@prefix wikipedia-en:	<http://en.wikipedia.org/wiki/> .
+wikipedia-en:Yellowfin_tuna	foaf:primaryTopic	dbr:Yellowfin_tuna .
+dbr:Proto-Oceanic_language	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_Wild_Kratts_episodes	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Zihuatanejo	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:River_Monsters	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_salads	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_sushi_and_sashimi_ingredients	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Extreme_Fishing_with_Robson_Green	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fish_as_food	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Lomi-lomi_salmon	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Sustainable_seafood	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:The_Blue_Planet	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Index_of_fishing_articles	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fish_common_names	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Pelagic_fish	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Serenity_(2019_film)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cookeolus_japonicus	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:La_Guaira_Bank	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Scomberesox_scombroides	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Pedas\u00ED,_Los_Santos>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ahi_Tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:Ahi_tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:Ichthyodinium_chabelardi	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Yellow-fin	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Inamona	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Yellow-fin_Tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:Yellow-fin_tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:Yellowfin_Tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:Thunnus_albacares	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna ;
+	dbo:wikiPageRedirects	dbr:Yellowfin_tuna .
+dbr:List_of_regional_dishes_of_the_United_States	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:History_of_seafood	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Robson\u0027s_Extreme_Fishing_Challenge>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Billfish_in_the_Indian_Ocean	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_common_commercial_fish_of_Sri_Lanka	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:California	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Guimaras_oil_spill	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Kiribati	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Chagos_Archipelago	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/List_of_Where_Is_My_Friend\u0027s_Home_episodes>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_types_of_seafood	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Economy_of_Tuvalu	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cabernet_Sauvignon	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ship	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Crocodile_shark	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_domesticated_animals	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/List_of_hors_d\u0027oeuvre>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Yellow	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Albacore	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:International_Seafood_Sustainability_Foundation	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ancient_Greek_cuisine	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ahi	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Celebes_Sea	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_industry_in_Niue	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_commercially_important_fish_species	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Monterey_Bay_Aquarium	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fishes_of_India	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Gordon_Ramsay_at_Claridge\u0027s>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cocos_Marine_Conservation_Area	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Seafood_mislabelling	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Gal\u00E1pagos_sea_lion>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Iron_Chef_Showdown	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Martha_Mendoza	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Punalu\u02BBu_Beach>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Earthtrust	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_Hawaiian_dishes	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Atlantic_blue_marlin	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Marlin_fishing	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Pantropical_spotted_dolphin	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cross_Seamount	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fish_aggregating_device	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Poke_(Hawaiian_dish)>	dbo:ingredient	dbr:Yellowfin_tuna ;
+	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Kon-Tiki_expedition	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Deadliest_Catch	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Brama_dussumieri	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Vema_Seamount	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_protected_areas_of_Tanzania	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Funafuti_Conservation_Area	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ocean_fisheries	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cocos_Island	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fish_of_Hawaii	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_marine_animals_of_the_Cape_Peninsula_and_False_Bay	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Little_tunny	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Greater_amberjack	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Salade_ni\u00E7oise>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Kinilaw	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Sharkdefense	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Gott\u0027s_Roadside>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Darwin\u0027s_Arch>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fish_migration	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_Deadly_60_episodes	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Isane	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Amberjack	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Canned_fish	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+ns4:_Los_Angeles	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Maldivian_cuisine	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Mas_riha	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Photobacterium	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Bigeye_tuna	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fishes_of_the_Houtman_Abrolhos	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Euthynnus_lineatus	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Neothunnus	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/Thunnus_(subgenus)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+@prefix rdf:	<http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix umbel-rc:	<http://umbel.org/umbel/rc/> .
+dbr:Yellowfin_tuna	rdf:type	umbel-rc:BiologicalLivingObject ,
+		umbel-rc:Animal ,
+		umbel-rc:EukaryoticCell ,
+		umbel-rc:Fish .
+@prefix owl:	<http://www.w3.org/2002/07/owl#> .
+dbr:Yellowfin_tuna	rdf:type	owl:Thing .
+@prefix rdfs:	<http://www.w3.org/2000/01/rdf-schema#> .
+dbr:Yellowfin_tuna	rdfs:label	"\u30AD\u30CF\u30C0"@ja ,
+		"\u0416\u0435\u043B\u0442\u043E\u043F\u0451\u0440\u044B\u0439 \u0442\u0443\u043D\u0435\u0446"@ru ,
+		"Gelbflossen-Thun"@de ,
+		"Geelvintonijn"@nl ,
+		"Atun hegats-hori"@eu ,
+		"\u0422\u0443\u043D\u0435\u0446\u044C \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439"@uk ,
+		"Tonyina d'aleta groga"@ca ,
+		"Gulfenad tonfisk"@sv ,
+		"Thunnus albacares"@es ,
+		"Yellowfin tuna"@en ,
+		"Thunnus albacares"@it ,
+		"\uD669\uB2E4\uB791\uC5B4"@ko ,
+		"Tuinn\u00EDn eite bu\u00ED"@ga ,
+		"Madidihang"@in ,
+		"\u062A\u0648\u0646\u0629 \u0627\u0644\u0632\u0639\u0646\u0641\u0629 \u0627\u0644\u0635\u0641\u0631\u0627\u0621"@ar ,
+		"Thon jaune"@fr ,
+		"Tu\u0144czyk \u017C\u00F3\u0142top\u0142etwy"@pl ,
+		"Thunnus albacares"@pt ,
+		"Tu\u0148\u00E1k \u017Elutoploutv\u00FD"@cs ;
+	rdfs:comment	"Gulfenad tonfisk (Thunnus albacares), \u00E4ven kallad gulfening, \u00E4r en tonfiskart som lever i de flesta tropiska och subtropiska hav."@sv ,
+		"\u0416\u0435\u043B\u0442\u043E\u043F\u0451\u0440\u044B\u0439 \u0442\u0443\u043D\u0435\u0446, \u0438\u043B\u0438 \u0436\u0435\u043B\u0442\u043E\u0445\u0432\u043E\u0441\u0442\u044B\u0439 \u0442\u0443\u043D\u0435\u0446 (\u043B\u0430\u0442. Thunnus albacares)  \u2014 \u0432\u0438\u0434 \u043B\u0443\u0447\u0435\u043F\u0451\u0440\u044B\u0445 \u0440\u044B\u0431 \u0438\u0437 \u0441\u0435\u043C\u0435\u0439\u0441\u0442\u0432\u0430 \u0441\u043A\u0443\u043C\u0431\u0440\u0438\u0435\u0432\u044B\u0445 \u043E\u0442\u0440\u044F\u0434\u0430 \u043E\u043A\u0443\u043D\u0435\u043E\u0431\u0440\u0430\u0437\u043D\u044B\u0445, \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0440\u043E\u043B\u044C \u0432 \u0440\u044B\u0431\u043D\u043E\u0439 \u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0441\u0442\u0438. \u0412\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u0432\u043E \u0432\u0441\u0435\u0445 \u0442\u0440\u043E\u043F\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0438 \u0443\u043C\u0435\u0440\u0435\u043D\u043D\u044B\u0445 \u0448\u0438\u0440\u043E\u0442\u0430\u0445 \u043C\u0438\u0440\u043E\u0432\u044B\u0445 \u043E\u043A\u0435\u0430\u043D\u043E\u0432, \u043E\u0434\u043D\u0430\u043A\u043E \u043E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C \u043C\u043E\u0440\u0435. \u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0434\u043B\u0438\u043D\u0430 239 \u0441\u043C, \u0430 \u043C\u0430\u0441\u0441\u0430 200 \u043A\u0433. \u0426\u0435\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u043C\u044B\u0441\u043B\u043E\u0432\u044B\u0439 \u0432\u0438\u0434."@ru ,
+		"Der Gelbflossen-Thun (Thunnus albacares), auch Ahi genannt, ist eine Thunfischart und ein bedeutender Speisefisch. Er kommt in allen tropischen und gem\u00E4\u00DFigten Ozeanen und Meeren vor, jedoch nicht im Mittelmeer. International bekannt ist der Fisch vor allem unter dem Namen Ahi, das aus dem Hawaiischen stammt und f\u00FCr eine ganze Speisengattung stellvertretend ist (siehe )."@de ,
+		"\uD669\uB2E4\uB791\uC5B4\uB294 \uACE0\uB4F1\uC5B4\uACFC\uC5D0 \uC18D\uD558\uB294 \uBB3C\uACE0\uAE30\uC774\uB2E4. \uC804 \uB300\uC591(\uD0DC\uD3C9\uC591, \uB300\uC11C\uC591, \uC778\uB3C4\uC591)\uC758 \uC5F4\uB300 \uBC0F \uC544\uC5F4\uB300 \uD574\uC5ED\uC5D0 \uAC78\uCCD0 \uAD11\uBC94\uC704\uD558\uAC8C \uBD84\uD3EC\uD55C\uB2E4."@ko ,
+		"\u30AD\u30CF\u30C0\uFF08\u9EC4\u808C\u3001\u6728\u808C\u3001\u5B66\u540D Thunnus albacares\uFF09\u306F\u3001\u30B9\u30BA\u30AD\u76EE\u30FB\u30B5\u30D0\u79D1\u306B\u5206\u985E\u3055\u308C\u308B\u9B5A\u306E\u4E00\u7A2E\u3002\u5168\u4E16\u754C\u306E\u71B1\u5E2F\u30FB\u4E9C\u71B1\u5E2F\u6D77\u57DF\u306B\u5E83\u304F\u5206\u5E03\u3059\u308B\u30DE\u30B0\u30ED\u3067\u3001\u7F36\u8A70\u3084\u523A\u8EAB\u306A\u3069\u306B\u7528\u3044\u3089\u308C\u308B\u91CD\u8981\u306A\u98DF\u7528\u9B5A\u3067\u3042\u308B\u3002\u65E5\u672C\u3067\u306F\u30AD\u30CF\u30C0\u30DE\u30B0\u30ED\uFF08\u9EC4\u808C\u9BAA\u3001\u6728\u808C\u9BAA\uFF09\u3068\u3082\u547C\u3070\u308C\u308B\u3002"@ja ,
+		"El at\u00FAn de aleta amarilla, at\u00FAn claro o rabil (Thunnus albacares) es un tipo de at\u00FAn que se encuentra en las aguas abiertas de mares tropicales y subtropicales por todo el mundo, aunque ausente del Mediterr\u00E1neo. Es un pez epipel\u00E1gico que habita en los 100 primeros metros de la columna de agua. Su tama\u00F1o puede llegar a los 239 cm de longitud y 200 kg de peso. Tambi\u00E9n es conocido por su nombre hawaiano \"ah\u00ED\". El at\u00FAn de aleta amarilla se ha convertido en un eficaz sustituto del at\u00FAn de aleta azul, cuyas poblaciones se han visto severamente reducidas."@es ,
+		"Speiceas tuinn\u00EDn at\u00E1 forleathan in uisc\u00ED dromchlacha na farraige tr\u00F3paic\u00ED is measartha te. Suas le 2 m ar fhad, str\u00E1ice \u00F3rga ar feadh taobh na colainne, na heit\u00ED droma is an eite thimpireach bu\u00ED. Itheann s\u00E9 \u00E9isc dhromchlacha, ina measc \u00E9isc eitilte is preabair\u00ED chomh maith le scuideanna is cr\u00FAstaigh. Iascaireacht an-trom \u00E1 d\u00E9anamh air."@ga ,
+		"L'Albacore ou Thon jaune (Thunnus albacares) est une esp\u00E8ce de poissons de la famille des Scombridae. C'est un thon que l'on rencontre dans toutes les eaux des r\u00E9gions subtropicales et tropicales de la plan\u00E8te. Cette esp\u00E8ce p\u00E9lagique, absente de la Mer M\u00E9diterran\u00E9e, est fortement migratrice et se trouve g\u00E9n\u00E9ralement dans les cent premiers m\u00E8tres de profondeur. Le thon jaune est tr\u00E8s pris\u00E9 en p\u00EAche sportive pour sa combativit\u00E9."@fr ,
+		"Il Tonno a pinne gialle (Thunnus albacares), conosciuto anche come Tonno albacora o Tonno monaco, \u00E8 un pesce di mare della famiglia Scombridae."@it ,
+		"\u0416\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439 \u0442\u0443\u043D\u0435\u0446\u044C (Thunnus albacares) \u2014 \u0432\u0438\u0434 \u0440\u0438\u0431 \u0440\u043E\u0434\u0438\u043D\u0438 \u0441\u043A\u0443\u043C\u0431\u0440\u0456\u0454\u0432\u0438\u0445 \u0440\u044F\u0434\u0443 \u043E\u043A\u0443\u043D\u0435\u043F\u043E\u0434\u0456\u0431\u043D\u0438\u0445, \u0449\u043E \u0433\u0440\u0430\u0454 \u0437\u043D\u0430\u0447\u043D\u0443 \u0440\u043E\u043B\u044C \u0432 \u0440\u0438\u0431\u043D\u0456\u0439 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0441\u0442\u0456. \u0417\u0443\u0441\u0442\u0440\u0456\u0447\u0430\u0454\u0442\u044C\u0441\u044F \u0443 \u0432\u0441\u0456\u0445 \u0442\u0440\u043E\u043F\u0456\u0447\u043D\u0438\u0445 \u0456 \u043F\u043E\u043C\u0456\u0440\u043D\u0438\u0445 \u0448\u0438\u0440\u043E\u0442\u0430\u0445 \u0441\u0432\u0456\u0442\u043E\u0432\u0438\u0445 \u043E\u043A\u0435\u0430\u043D\u0456\u0432, \u043F\u0440\u043E\u0442\u0435 \u0432\u0456\u0434\u0441\u0443\u0442\u043D\u0456\u0439 \u0432 \u0421\u0435\u0440\u0435\u0434\u0437\u0435\u043C\u043D\u043E\u043C\u0443 \u043C\u043E\u0440\u0456. \u041E\u0431\u0438\u0434\u0432\u0430 \u0437\u0430\u0434\u043D\u0456 \u043F\u043B\u0430\u0432\u0446\u0456 \u0437\u0430\u0431\u0430\u0440\u0432\u043B\u0435\u043D\u0456 \u0432 \u044F\u0441\u043A\u0440\u0430\u0432\u0438\u0439 \u0436\u043E\u0432\u0442\u0438\u0439 \u043A\u043E\u043B\u0456\u0440, \u0449\u043E \u0434\u0430\u043B\u043E \u0446\u044C\u043E\u043C\u0443 \u0432\u0438\u0434\u0443 \u0439\u043E\u0433\u043E \u043D\u0430\u0437\u0432\u0443. \u0420\u0435\u0448\u0442\u0430 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u0432 \u0442\u0456\u043B\u0430 \u0432\u0430\u0440\u0456\u044E\u0454 \u0432\u0456\u0434 \u043C\u0435\u0442\u043B\u0435\u0432\u043E-\u0431\u043B\u0430\u043A\u0438\u0442\u043D\u043E\u0433\u043E \u043D\u0430 \u0441\u043F\u0438\u043D\u0456 \u0434\u043E \u0441\u0440\u0456\u0431\u043B\u044F\u0441\u0442\u043E\u0433\u043E \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u0456. \u041D\u0430 \u0436\u0438\u0432\u043E\u0442\u0456 \u0437\u043D\u0430\u0445\u043E\u0434\u044F\u0442\u044C\u0441\u044F 20 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u0438\u0445 \u043B\u0456\u043D\u0456\u0439. \u0420\u043E\u0437\u043C\u0456\u0440 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u043E\u0433\u043E \u0442\u0443\u043D\u0446\u044F \u0434\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E 240 \u0441\u043C, \u0430 \u0432\u0430\u0433\u0430 \u0434\u043E 200 \u043A\u0433."@uk ,
+		"Tu\u0148\u00E1k \u017Elutoploutv\u00FD (Thunnus albacares) pat\u0159\u00ED mezi t\u00E9m\u011B\u0159 ohro\u017Een\u00E9 druhy ryb. Vyskytuje se ve v\u011Bt\u0161in\u011B tropick\u00FDch a subtropick\u00FDch mo\u0159\u00EDch krom\u011B St\u0159edozemn\u00EDho mo\u0159e. Je to vynikaj\u00EDc\u00ED plavec, kter\u00FD dok\u00E1\u017Ee urazit obrovsk\u00E9 vzd\u00E1lenosti b\u011Bhem obdob\u00ED tah\u016F a nav\u00EDc je to jedna z nejrychlej\u0161\u00EDch ryb sou\u010Dasnosti. P\u0159\u00EDvlastek \u017Elutoploutv\u00FD z\u00EDskal d\u00EDky \u017Elut\u00E9mu zbarven\u00ED h\u0159betn\u00EDch a b\u0159i\u0161n\u00EDch ploutv\u00ED. Tu\u0148\u00E1k \u017Elutoploutv\u00FD pat\u0159\u00ED mezi v\u011Bt\u0161\u00ED tu\u0148\u00E1ky a v\u00E1\u017E\u00ED kolem 50\u201360 kg. Nejv\u011Bt\u0161\u00ED ryba v\u00E1\u017Eila 184 kg, m\u011B\u0159ila 2 m a byla chycena u mexick\u00E9ho z\u00E1livu  v roce 2011."@cs ,
+		"Atun hegats-horia (Thunnus albacares) ur gazian bizi den arraina da, munduko itsaso tropikal eta azpitropikaletan bizi dena. Batzutan ahi izenaz ere saltzen dute, hawaieraz \u02BBahi izena duelako."@eu ,
+		"\u062A\u0648\u0646\u0629 \u0627\u0644\u0632\u0639\u0646\u0641\u0629 \u0627\u0644\u0635\u0641\u0631\u0627\u0621 \u0623\u0648 \u0642\u0628\u0627\u0628\u0629 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Yellowfin tuna) \u0647\u064A \u0646\u0648\u0639 \u0645\u0646 \u0623\u0633\u0645\u0627\u0643 \u0627\u0644\u062A\u0648\u0646\u0627 \u062A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u0645\u064A\u0627\u0647 \u0627\u0644\u0633\u0637\u062D\u064A\u0629 \u0644\u0644\u0645\u062D\u064A\u0637\u0627\u062A \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629 \u0648\u0634\u0628\u0647 \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629 \u0641\u064A \u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645.\u062A\u0639\u062A\u0628\u0631 \u0630\u0627\u062A \u0642\u064A\u0645\u0629 \u063A\u0630\u0627\u0626\u064A\u0629 \u0648\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 \u0639\u0627\u0644\u064A\u0629"@ar ,
+		"Ikan Madidihang atau tuna sirip kuning (Thunnus albacares) adalah sejenis ikan pelagis besar yang mengembara di lautan tropika dan ugahari di seluruh dunia. Ikan ini merupakan salah satu jenis tuna yang terbesar, meski masih kalah besar jika dibandingkan dengan tuna sirip biru dan tuna mata besar. Madidihang juga merupakan ikan tangkapan samudra yang penting karena bernilai ekonomi tinggi. Dalam perdagangan dunia, ikan ini dikenal sebagai yellowfin tuna (Ingg.) dan juga albacore (Pr. dan Sp.)."@in ,
+		"Thunnus albacares  (Bonnaterre, 1788), conhecido pelos nomes comuns de albacora, albacora-da-lage, albacora-cachorra (Brasil), atum-amarelo (do ingl\u00EAs \"yellowfin\"), atum-oled\u00EA (S\u00E3o Tom\u00E9 e Pr\u00EDncipe), atum-de-galha-\u00E0-r\u00E9 (Cabo Verde), rab\u00E3o (Angola) e rabo-seco (Cabo Verde), \u00E9 uma esp\u00E9cie de atum com distribui\u00E7\u00E3o natural alargada nas \u00E1gua tropicais e subtropicais de todos os oceanos, com exce\u00E7\u00E3o do Mediterr\u00E2neo, mar Vermelho e mar da China Meridional."@pt ,
+		"The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide. Yellowfin is often marketed as ahi, from the Hawaiian \u02BBahi, a name also used there for the closely related bigeye tuna. The species name, albacares (\"white meat\") can also lead to confusion: in English, the albacore tuna (Thunnus alalunga) is a different species, while yellowfin is officially designated albacore in French and referred to as albacora by Portuguese fishermen."@en ,
+		"La tonyina d'aleta groga (Thunnus albacares) \u00E9s una esp\u00E8cie de peix teleosti de la fam\u00EDlia dels esc\u00F2mbrids i de l'ordre dels perciformes."@ca ,
+		"De geelvintonijn (Thunnus albacares) is een straalvinnige vis uit de familie van makrelen (Scombridae) en behoort derhalve tot de orde van baarsachtigen (Perciformes). De vis kan een lengte bereiken van 239 cm en is herkenbaar aan zijn twee gele vinnen. De hoogst geregistreerde leeftijd is 8 jaar."@nl ,
+		"Tu\u0144czyk \u017C\u00F3\u0142top\u0142etwy, tu\u0144czyk z\u0142oty, albakora \u017C\u00F3\u0142top\u0142etwa (Thunnus albacares), opisywany te\u017C pod nazw\u0105 albakora \u2013 gatunek morskiej ryby okoniokszta\u0142tnej z rodziny makrelowatych (Scombridae)."@pl ;
+	foaf:depiction	<http://commons.wikimedia.org/wiki/Special:FilePath/Thunnus_albacares.png> ;
+	foaf:isPrimaryTopicOf	wikipedia-en:Yellowfin_tuna .
+@prefix dct:	<http://purl.org/dc/terms/> .
+@prefix dbc:	<http://dbpedia.org/resource/Category:> .
+dbr:Yellowfin_tuna	dct:subject	dbc:Fish_of_the_Caribbean ,
+		dbc:Taxa_named_by_Pierre_Joseph_Bonnaterre ,
+		dbc:Fish_of_the_Dominican_Republic ,
+		dbc:Fish_of_the_Atlantic_Ocean ,
+		dbc:Hawaiian_cuisine ,
+		dbc:Fish_of_Hawaii ,
+		dbc:Thunnus ,
+		dbc:Commercial_fish ,
+		dbc:Fish_of_Thailand ,
+		dbc:Sport_fish ,
+		dbc:Fish_described_in_1788 ,
+		dbc:Cuisine_of_the_Southern_United_States ;
+	owl:sameAs	<http://tr.dbpedia.org/resource/Sar\u0131_y\u00FCzge\u00E7li_orkinos> ,
+		<http://az.dbpedia.org/resource/Sar\u0131\u00FCzg\u0259c_tunes> ,
+		<http://ar.dbpedia.org/resource/\u062A\u0648\u0646\u0629_\u0627\u0644\u0632\u0639\u0646\u0641\u0629_\u0627\u0644\u0635\u0641\u0631\u0627\u0621> ,
+		<https://global.dbpedia.org/id/2XPHF> .
+@prefix ns14:	<http://jv.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	ns14:Madidihang .
+@prefix dbpedia-sv:	<http://sv.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-sv:Gulfenad_tonfisk ,
+		<http://ko.dbpedia.org/resource/\uD669\uB2E4\uB791\uC5B4> .
+@prefix dbpedia-pt:	<http://pt.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-pt:Thunnus_albacares ,
+		<http://ca.dbpedia.org/resource/Tonyina_d\u0027aleta_groga> ,
+		<http://hr.dbpedia.org/resource/\u017Dutoperajna_tuna> .
+@prefix dbpedia-sl:	<http://sl.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-sl:Rumenoplavuti_tun ,
+		dbr:Yellowfin_tuna ,
+		<http://cs.dbpedia.org/resource/Tu\u0148\u00E1k_\u017Elutoploutv\u00FD> .
+@prefix dbpedia-it:	<http://it.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-it:Thunnus_albacares .
+@prefix dbpedia-la:	<http://la.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-la:Thunnus_albacares ,
+		<http://si.dbpedia.org/resource/\u0D9A\u0DD9\u0DBD\u0DC0\u0DBD\u0DCA\u0DBD\u0DCF> ,
+		<http://ga.dbpedia.org/resource/Tuinn\u00EDn_eite_bu\u00ED> ,
+		<http://bg.dbpedia.org/resource/\u0416\u044A\u043B\u0442\u043E\u043F\u0435\u0440\u0430_\u0440\u0438\u0431\u0430_\u0442\u043E\u043D> ,
+		<http://hu.dbpedia.org/resource/S\u00E1rga\u00FAsz\u00F3j\u00FA_tonhal> .
+@prefix wikidata:	<http://www.wikidata.org/entity/> .
+dbr:Yellowfin_tuna	owl:sameAs	wikidata:Q269781 ,
+		<http://is.dbpedia.org/resource/Guli_t\u00FAnfiskur> ,
+		<http://vi.dbpedia.org/resource/C\u00E1_ng\u1EEB_v\u00E2y_v\u00E0ng> .
+@prefix dbpedia-cy:	<http://cy.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-cy:Tiwna_Melyn ,
+		<http://th.dbpedia.org/resource/\u0E1B\u0E25\u0E32\u0E17\u0E39\u0E19\u0E48\u0E32\u0E04\u0E23\u0E35\u0E1A\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E07> ,
+		<http://ja.dbpedia.org/resource/\u30AD\u30CF\u30C0> .
+@prefix dbpedia-id:	<http://id.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-id:Madidihang ,
+		<http://gl.dbpedia.org/resource/At\u00FAn_de_aleta_amarela> .
+@prefix dbpedia-eu:	<http://eu.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-eu:Atun_hegats-hori .
+@prefix dbpedia-war:	<http://war.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-war:Thunnus_albacares .
+@prefix dbpedia-simple:	<http://simple.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-simple:Yellowfin_tuna .
+@prefix dbpedia-no:	<http://no.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-no:Gulfinnetun ,
+		<http://rdf.freebase.com/ns/m.03gy9m> ,
+		<http://pl.dbpedia.org/resource/Tu\u0144czyk_\u017C\u00F3\u0142top\u0142etwy> .
+@prefix dbpedia-ms:	<http://ms.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-ms:Ikan_Aya_Sirip_Kuning .
+@prefix dbpedia-nl:	<http://nl.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-nl:Geelvintonijn .
+@prefix dbpedia-af:	<http://af.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-af:Geelvintuna .
+@prefix dbpedia-es:	<http://es.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-es:Thunnus_albacares ,
+		<http://he.dbpedia.org/resource/\u05D8\u05D5\u05E0\u05D4_\u05D6\u05D4\u05D5\u05D1\u05D4> .
+@prefix ns31:	<http://ecowlim.tfri.gov.tw/lode/resource/taibnet/Species/> .
+dbr:Yellowfin_tuna	owl:sameAs	ns31:Thunus_albacares ,
+		<http://fa.dbpedia.org/resource/\u06AF\u06CC\u062F\u0631> ,
+		<http://fi.dbpedia.org/resource/Keltaev\u00E4tonnikala> ,
+		<http://uk.dbpedia.org/resource/\u0422\u0443\u043D\u0435\u0446\u044C_\u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439> .
+@prefix ns32:	<http://ceb.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	ns32:Carao ,
+		ns31:Thunnus_albacares ,
+		ns31:Thunnus_albacarres ,
+		ns31:Thunnus_albacores .
+@prefix ns33:	<http://tl.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	ns33:Tambakol ,
+		<http://ru.dbpedia.org/resource/\u0416\u0435\u043B\u0442\u043E\u043F\u0451\u0440\u044B\u0439_\u0442\u0443\u043D\u0435\u0446> .
+@prefix dbpedia-de:	<http://de.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-de:Gelbflossen-Thun .
+@prefix dbpedia-fr:	<http://fr.dbpedia.org/resource/> .
+dbr:Yellowfin_tuna	owl:sameAs	dbpedia-fr:Thon_jaune ,
+		<http://eunis.eea.europa.eu/species/124055> ;
+	dbp:species	"albacares"@en .
+@prefix prov:	<http://www.w3.org/ns/prov#> .
+dbr:Yellowfin_tuna	prov:wasDerivedFrom	<http://en.wikipedia.org/wiki/Yellowfin_tuna?oldid=986155652&ns=0> ;
+	dbp:statusSystem	"IUCN3.1"@en ;
+	dbp:month	"April"@en ;
+	dbp:authority	"Bonnaterre, 1788"@en ;
+	dbp:synonyms	"*Scomber albacares (Bonnaterre, 1788) \n*Germo albacares  \n*Neothunnus albacares  \n*Scomber albacorus (Lacep\u00E8de, 1800) \n*Thynnus argentivittatus (Cuvier, 1832) \n*Germo argentivittatus  \n*Neothunnus argentivittatus  \n*Thunnus argentivittatus  \n*Scomber sloanei (Cuvier, 1832) \n*Thynnus albacora (Lowe, 1839) \n*Germo albacora  \n*Neothunnus albacora  \n*Orcynus albacora  \n*Thunnus albacora  \n*Thynnus macropterus (Temminck & Schlegel, 1844) \n*Germo macropterus  \n*Neothunnus macropterus  \n*Orcynus macropterus  \n*Thunnus macropterus  \n*Orcynus subulatus (Poey, 1875) \n*Thunnus allisoni (Mowbray, 1920) \n*Germo allisoni  \n*Neothunnus allisoni  \n*Neothunnus itosibi (Jordan & Evermann, 1926) \n*Germo itosibi  \n*Semathunnus itosibi  \n*Thunnus itosibi  \n*Neothunnus catalinae (Jordan & Evermann, 1926) \n*Thunnus catalinae  \n*Kishinoella zacalles (Jordan & Evermann, 1926) \n*Thunnus zacalles  \n*Semathunnus guildi (Fowler, 1933) \n*Neothunnus brevipinna (Bell\u00F3n & B\u00E0rdan de Bell\u00F3n, 1949)"@en ;
+	dbp:parent	"Thunnus"@en ;
+	dbp:status	"NT"@en ;
+	dbp:genus	"Thunnus"@en ;
+	dbp:year	2008 ;
+	dbp:name	"Yellowfin tuna"@en ;
+	dbo:thumbnail	<http://commons.wikimedia.org/wiki/Special:FilePath/Thunnus_albacares.png?width=300> ;
+	dbo:wikiPageID	849533 ;
+	dbo:wikiPageRevisionID	986155652 ;
+	dbo:wikiPageWikiLink	dbr:South_Africa ,
+		dbr:Maldives ,
+		dbr:Sickle ,
+		dbr:Mahi-mahi ,
+		dbr:Isurus ,
+		dbr:Sardine ,
+		dbr:Bamboo ,
+		dbr:Mackerel ,
+		dbr:Baja_California_Peninsula ,
+		dbr:Fish_aggregating_device ,
+		dbr:New_England ,
+		dbr:Fishing_tackle ,
+		dbr:Coenraad_Jacob_Temminck ,
+		dbr:Seine_fishing ,
+		dbr:New_Zealand ,
+		dbr:Flying_fish ,
+		dbr:Madeira ,
+		dbr:Scimitar ,
+		dbr:Cetacea ,
+		dbc:Fish_of_Thailand ,
+		dbr:Southern_bluefin_tuna ,
+		dbr:Caribbean ,
+		dbr:Pierre_Joseph_Bonnaterre ,
+		dbr:Billfish ,
+		dbr:Henry_Weed_Fowler ,
+		dbc:Sport_fish ,
+		dbr:Tahiti ,
+		dbr:Ascension_Island ,
+		dbr:Barton_Warren_Evermann ,
+		dbr:Frigate_tuna ,
+		dbr:Fish_fin ,
+		<http://dbpedia.org/resource/Gal\u00E1pagos_Islands> ,
+		dbr:Dolphin_safe_label ,
+		dbr:Indian_Ocean ,
+		dbr:Ghana ,
+		dbr:Hawaii ,
+		dbr:Gulf_of_Guinea ,
+		dbc:Fish_of_the_Atlantic_Ocean ,
+		dbc:Fish_of_the_Dominican_Republic ,
+		dbc:Commercial_fish ,
+		dbr:Fishing_techniques ,
+		dbr:Porpoise ,
+		dbr:Whale ,
+		dbr:Sashimi ,
+		dbc:Fish_of_Hawaii ,
+		dbr:Warm-blooded ,
+		<http://dbpedia.org/resource/Bernard_Germain_de_Lac\u00E9p\u00E8de> ,
+		dbr:Costa_Rica ,
+		dbr:Longline_fishing ,
+		dbr:California ,
+		dbr:French_language ,
+		dbr:Atlantic_bluefin_tuna ,
+		dbr:Fiberglass ,
+		dbr:Bluefin_tuna ,
+		dbr:San_Benedicto_Island ,
+		dbr:Black_marlin ,
+		dbr:Saint_Helena ,
+		dbr:Georges_Cuvier ,
+		dbr:General_Santos ,
+		dbr:Tuna ,
+		dbr:Sustainable_seafood_advisory_lists_and_certification ,
+		<http://dbpedia.org/resource/Santa_Catalina_Island_(California)> ,
+		dbr:Pelagic_zone ,
+		dbc:Fish_of_the_Caribbean ,
+		<http://dbpedia.org/resource/File:Gen_Santos_city_5.jpg> ,
+		<http://dbpedia.org/resource/File:Yellowfin_tuna_nurp.jpg> ,
+		dbr:Squid ,
+		<http://dbpedia.org/resource/File:GP04BT6.jpg> ,
+		<http://dbpedia.org/resource/File:YellowFineTuna2020_(edited).webm> ,
+		<http://dbpedia.org/resource/File:Thunn_albac_100708-5564_plrtu.JPG> ,
+		<http://dbpedia.org/resource/File:Yellow_Fin_Tuna.jpg> ,
+		<http://dbpedia.org/resource/File:Yellowfin_tuna_diving.jpg> ,
+		<http://dbpedia.org/resource/Trolling_(fishing)> ,
+		dbr:Toothed_whale ,
+		dbr:Blackfin_tuna ,
+		dbr:Hawaiian_language ,
+		dbr:Scomberesocidae ,
+		dbr:Chumming ,
+		dbr:Dolphin ,
+		dbr:Richard_Thomas_Lowe ,
+		dbc:Fish_described_in_1788 ,
+		dbr:Lanternfish ,
+		dbr:Bathymetry ,
+		dbr:Wahoo ,
+		dbr:Surrounding_net ,
+		dbc:Cuisine_of_the_Southern_United_States ,
+		dbr:Volcano ,
+		dbr:Hermann_Schlegel ,
+		dbr:Skipjack_tuna ,
+		dbr:Tropics ,
+		dbr:Felipe_Poey ,
+		dbr:Ocean ,
+		dbr:Indo-Pacific_blue_marlin ,
+		dbr:Thermocline ,
+		dbr:False_killer_whale ,
+		dbr:International_Game_Fish_Association ,
+		dbr:Bigeye_tuna ,
+		dbr:Canary_Islands ,
+		dbr:Dorsal_fin ,
+		dbr:Manta_ray ,
+		dbr:Spinner_dolphin ,
+		dbr:Azores ,
+		dbr:Great_white_shark ,
+		dbr:Whale_shark ,
+		<http://dbpedia.org/resource/El_Ni\u00F1o> ,
+		dbr:David_Starr_Jordan ,
+		dbc:Thunnus ,
+		dbr:Atlantic_blue_marlin ,
+		dbr:Fish_fillet ,
+		dbr:North_Carolina ,
+		dbc:Hawaiian_cuisine ,
+		dbr:Anchovy ,
+		dbr:San_Diego ,
+		dbr:Continental_shelf ,
+		dbr:Seabird ,
+		dbr:Photic_zone ,
+		dbr:Panama ,
+		dbr:Greenpeace ,
+		dbr:Satellite_imagery ,
+		dbr:Sea_turtle ,
+		dbr:Bycatch ,
+		dbc:Taxa_named_by_Pierre_Joseph_Bonnaterre ,
+		dbr:Pacific_bluefin_tuna ,
+		dbr:Albacore ,
+		dbr:Shark ,
+		dbr:Bait_fish ,
+		dbr:Chlorophyll ,
+		dbr:Crustacean ,
+		dbr:Striped_marlin ,
+		dbr:Pantropical_spotted_dolphin ,
+		dbr:Australia ;
+	dbo:wikiPageExternalLink	<https://www.iucnredlist.org/details/21857/0%7Ctitle=\u0027\u0027Thunnus> ,
+		<https://www.sandiegohistory.org/journal/91summer/tuna.htm> .
+@prefix ns37:	<https://www.fishwatch.gov/profiles/> .
+dbr:Yellowfin_tuna	dbo:wikiPageExternalLink	ns37:atlantic-yellowfin-tuna ,
+		ns37:pacific-yellowfin-tuna .
+@prefix dbt:	<http://dbpedia.org/resource/Template:> .
+dbr:Yellowfin_tuna	dbp:wikiPageUsesTemplate	dbt:Reflist ,
+		dbt:Citation_needed ,
+		dbt:Authority_control ,
+		dbt:FishBase_species ,
+		dbt:Clear ,
+		dbt:Refbegin ,
+		dbt:Refend ,
+		dbt:Sealifephotos ,
+		dbt:Okina ,
+		dbt:Convert ,
+		dbt:Center ,
+		dbt:Taxonbar ,
+		dbt:Commercial_fish_topics ,
+		dbt:Tuna ,
+		dbt:Speciesbox ,
+		dbt:Cite_iucn ;
+	dbo:abstract	"\u062A\u0648\u0646\u0629 \u0627\u0644\u0632\u0639\u0646\u0641\u0629 \u0627\u0644\u0635\u0641\u0631\u0627\u0621 \u0623\u0648 \u0642\u0628\u0627\u0628\u0629 (\u0628\u0627\u0644\u0625\u0646\u062C\u0644\u064A\u0632\u064A\u0629: Yellowfin tuna) \u0647\u064A \u0646\u0648\u0639 \u0645\u0646 \u0623\u0633\u0645\u0627\u0643 \u0627\u0644\u062A\u0648\u0646\u0627 \u062A\u0648\u062C\u062F \u0641\u064A \u0627\u0644\u0645\u064A\u0627\u0647 \u0627\u0644\u0633\u0637\u062D\u064A\u0629 \u0644\u0644\u0645\u062D\u064A\u0637\u0627\u062A \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629 \u0648\u0634\u0628\u0647 \u0627\u0644\u0627\u0633\u062A\u0648\u0627\u0626\u064A\u0629 \u0641\u064A \u062C\u0645\u064A\u0639 \u0623\u0646\u062D\u0627\u0621 \u0627\u0644\u0639\u0627\u0644\u0645.\u062A\u0639\u062A\u0628\u0631 \u0630\u0627\u062A \u0642\u064A\u0645\u0629 \u063A\u0630\u0627\u0626\u064A\u0629 \u0648\u0627\u0642\u062A\u0635\u0627\u062F\u064A\u0629 \u0639\u0627\u0644\u064A\u0629"@ar ,
+		"Tu\u0144czyk \u017C\u00F3\u0142top\u0142etwy, tu\u0144czyk z\u0142oty, albakora \u017C\u00F3\u0142top\u0142etwa (Thunnus albacares), opisywany te\u017C pod nazw\u0105 albakora \u2013 gatunek morskiej ryby okoniokszta\u0142tnej z rodziny makrelowatych (Scombridae)."@pl ,
+		"\u30AD\u30CF\u30C0\uFF08\u9EC4\u808C\u3001\u6728\u808C\u3001\u5B66\u540D Thunnus albacares\uFF09\u306F\u3001\u30B9\u30BA\u30AD\u76EE\u30FB\u30B5\u30D0\u79D1\u306B\u5206\u985E\u3055\u308C\u308B\u9B5A\u306E\u4E00\u7A2E\u3002\u5168\u4E16\u754C\u306E\u71B1\u5E2F\u30FB\u4E9C\u71B1\u5E2F\u6D77\u57DF\u306B\u5E83\u304F\u5206\u5E03\u3059\u308B\u30DE\u30B0\u30ED\u3067\u3001\u7F36\u8A70\u3084\u523A\u8EAB\u306A\u3069\u306B\u7528\u3044\u3089\u308C\u308B\u91CD\u8981\u306A\u98DF\u7528\u9B5A\u3067\u3042\u308B\u3002\u65E5\u672C\u3067\u306F\u30AD\u30CF\u30C0\u30DE\u30B0\u30ED\uFF08\u9EC4\u808C\u9BAA\u3001\u6728\u808C\u9BAA\uFF09\u3068\u3082\u547C\u3070\u308C\u308B\u3002"@ja ,
+		"Ikan Madidihang atau tuna sirip kuning (Thunnus albacares) adalah sejenis ikan pelagis besar yang mengembara di lautan tropika dan ugahari di seluruh dunia. Ikan ini merupakan salah satu jenis tuna yang terbesar, meski masih kalah besar jika dibandingkan dengan tuna sirip biru dan tuna mata besar. Madidihang juga merupakan ikan tangkapan samudra yang penting karena bernilai ekonomi tinggi. Dalam perdagangan dunia, ikan ini dikenal sebagai yellowfin tuna (Ingg.) dan juga albacore (Pr. dan Sp.)."@in ,
+		"Tu\u0148\u00E1k \u017Elutoploutv\u00FD (Thunnus albacares) pat\u0159\u00ED mezi t\u00E9m\u011B\u0159 ohro\u017Een\u00E9 druhy ryb. Vyskytuje se ve v\u011Bt\u0161in\u011B tropick\u00FDch a subtropick\u00FDch mo\u0159\u00EDch krom\u011B St\u0159edozemn\u00EDho mo\u0159e. Je to vynikaj\u00EDc\u00ED plavec, kter\u00FD dok\u00E1\u017Ee urazit obrovsk\u00E9 vzd\u00E1lenosti b\u011Bhem obdob\u00ED tah\u016F a nav\u00EDc je to jedna z nejrychlej\u0161\u00EDch ryb sou\u010Dasnosti. P\u0159\u00EDvlastek \u017Elutoploutv\u00FD z\u00EDskal d\u00EDky \u017Elut\u00E9mu zbarven\u00ED h\u0159betn\u00EDch a b\u0159i\u0161n\u00EDch ploutv\u00ED. Tu\u0148\u00E1k \u017Elutoploutv\u00FD pat\u0159\u00ED mezi v\u011Bt\u0161\u00ED tu\u0148\u00E1ky a v\u00E1\u017E\u00ED kolem 50\u201360 kg. Nejv\u011Bt\u0161\u00ED ryba v\u00E1\u017Eila 184 kg, m\u011B\u0159ila 2 m a byla chycena u mexick\u00E9ho z\u00E1livu  v roce 2011. Jeho \u010Dty\u0159i populace dlouhodob\u011B oslabuj\u00ED, a p\u0159esto vysok\u00E1 m\u00EDra jejich lovu neust\u00E1v\u00E1. Populace ve v\u00FDchodn\u00EDm Pacifiku a v Indick\u00E9m oce\u00E1nu jsou klasifikov\u00E1ny jako p\u0159eloven\u00E9. Dal\u0161\u00ED dv\u011B populace v Atlantiku a st\u0159edn\u00EDm a z\u00E1padn\u00EDm Pacifiku jsou klasifikov\u00E1ny jako pravd\u011Bpodobn\u011B p\u0159eloven\u00E9. Tu\u0148\u00E1ci jsou nej\u010Dast\u011Bji loveni pomoc\u00ED nevod\u016F neboli kruhov\u00FDch z\u00E1tahov\u00FDch s\u00EDt\u00ED, kdy se st\u00E1le \u010Dast\u011Bji vyu\u017E\u00EDv\u00E1 l\u00E1kac\u00ED za\u0159\u00EDzen\u00ED  (nap\u0159\u00EDklad v Indick\u00E9m oce\u00E1nu to \u010Din\u00ED 30\u201340 %). Probl\u00E9mem p\u0159i tomto ne\u0161etrn\u00E9m zp\u016Fsobu lovu je i to, \u017Ee se hejna tu\u0148\u00E1k\u016F \u010Dasto pohybuj\u00ED ve spole\u010Dnosti delf\u00EDn\u016F, kte\u0159\u00ED se pak zbyte\u010Dn\u011B st\u00E1vaj\u00ED vedlej\u0161\u00EDm \u00FAlovkem."@cs ,
+		"La tonyina d'aleta groga (Thunnus albacares) \u00E9s una esp\u00E8cie de peix teleosti de la fam\u00EDlia dels esc\u00F2mbrids i de l'ordre dels perciformes."@ca ,
+		"The yellowfin tuna (Thunnus albacares) is a species of tuna found in pelagic waters of tropical and subtropical oceans worldwide. Yellowfin is often marketed as ahi, from the Hawaiian \u02BBahi, a name also used there for the closely related bigeye tuna. The species name, albacares (\"white meat\") can also lead to confusion: in English, the albacore tuna (Thunnus alalunga) is a different species, while yellowfin is officially designated albacore in French and referred to as albacora by Portuguese fishermen."@en ,
+		"El at\u00FAn de aleta amarilla, at\u00FAn claro o rabil (Thunnus albacares) es un tipo de at\u00FAn que se encuentra en las aguas abiertas de mares tropicales y subtropicales por todo el mundo, aunque ausente del Mediterr\u00E1neo. Es un pez epipel\u00E1gico que habita en los 100 primeros metros de la columna de agua. Su tama\u00F1o puede llegar a los 239 cm de longitud y 200 kg de peso. Tambi\u00E9n es conocido por su nombre hawaiano \"ah\u00ED\". El at\u00FAn de aleta amarilla se ha convertido en un eficaz sustituto del at\u00FAn de aleta azul, cuyas poblaciones se han visto severamente reducidas."@es ,
+		"Gulfenad tonfisk (Thunnus albacares), \u00E4ven kallad gulfening, \u00E4r en tonfiskart som lever i de flesta tropiska och subtropiska hav."@sv ,
+		"De geelvintonijn (Thunnus albacares) is een straalvinnige vis uit de familie van makrelen (Scombridae) en behoort derhalve tot de orde van baarsachtigen (Perciformes). De vis kan een lengte bereiken van 239 cm en is herkenbaar aan zijn twee gele vinnen. De hoogst geregistreerde leeftijd is 8 jaar."@nl ,
+		"Thunnus albacares  (Bonnaterre, 1788), conhecido pelos nomes comuns de albacora, albacora-da-lage, albacora-cachorra (Brasil), atum-amarelo (do ingl\u00EAs \"yellowfin\"), atum-oled\u00EA (S\u00E3o Tom\u00E9 e Pr\u00EDncipe), atum-de-galha-\u00E0-r\u00E9 (Cabo Verde), rab\u00E3o (Angola) e rabo-seco (Cabo Verde), \u00E9 uma esp\u00E9cie de atum com distribui\u00E7\u00E3o natural alargada nas \u00E1gua tropicais e subtropicais de todos os oceanos, com exce\u00E7\u00E3o do Mediterr\u00E2neo, mar Vermelho e mar da China Meridional."@pt ,
+		"Il Tonno a pinne gialle (Thunnus albacares), conosciuto anche come Tonno albacora o Tonno monaco, \u00E8 un pesce di mare della famiglia Scombridae."@it ,
+		"Atun hegats-horia (Thunnus albacares) ur gazian bizi den arraina da, munduko itsaso tropikal eta azpitropikaletan bizi dena. Batzutan ahi izenaz ere saltzen dute, hawaieraz \u02BBahi izena duelako."@eu ,
+		"\u0416\u0435\u043B\u0442\u043E\u043F\u0451\u0440\u044B\u0439 \u0442\u0443\u043D\u0435\u0446, \u0438\u043B\u0438 \u0436\u0435\u043B\u0442\u043E\u0445\u0432\u043E\u0441\u0442\u044B\u0439 \u0442\u0443\u043D\u0435\u0446 (\u043B\u0430\u0442. Thunnus albacares)  \u2014 \u0432\u0438\u0434 \u043B\u0443\u0447\u0435\u043F\u0451\u0440\u044B\u0445 \u0440\u044B\u0431 \u0438\u0437 \u0441\u0435\u043C\u0435\u0439\u0441\u0442\u0432\u0430 \u0441\u043A\u0443\u043C\u0431\u0440\u0438\u0435\u0432\u044B\u0445 \u043E\u0442\u0440\u044F\u0434\u0430 \u043E\u043A\u0443\u043D\u0435\u043E\u0431\u0440\u0430\u0437\u043D\u044B\u0445, \u0438\u0433\u0440\u0430\u044E\u0449\u0438\u0439 \u0437\u043D\u0430\u0447\u0438\u0442\u0435\u043B\u044C\u043D\u0443\u044E \u0440\u043E\u043B\u044C \u0432 \u0440\u044B\u0431\u043D\u043E\u0439 \u043F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u043D\u043E\u0441\u0442\u0438. \u0412\u0441\u0442\u0440\u0435\u0447\u0430\u0435\u0442\u0441\u044F \u0432\u043E \u0432\u0441\u0435\u0445 \u0442\u0440\u043E\u043F\u0438\u0447\u0435\u0441\u043A\u0438\u0445 \u0438 \u0443\u043C\u0435\u0440\u0435\u043D\u043D\u044B\u0445 \u0448\u0438\u0440\u043E\u0442\u0430\u0445 \u043C\u0438\u0440\u043E\u0432\u044B\u0445 \u043E\u043A\u0435\u0430\u043D\u043E\u0432, \u043E\u0434\u043D\u0430\u043A\u043E \u043E\u0442\u0441\u0443\u0442\u0441\u0442\u0432\u0443\u0435\u0442 \u0432 \u0421\u0440\u0435\u0434\u0438\u0437\u0435\u043C\u043D\u043E\u043C \u043C\u043E\u0440\u0435. \u041C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u0430\u044F \u0437\u0430\u0440\u0435\u0433\u0438\u0441\u0442\u0440\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u0430\u044F \u0434\u043B\u0438\u043D\u0430 239 \u0441\u043C, \u0430 \u043C\u0430\u0441\u0441\u0430 200 \u043A\u0433. \u0426\u0435\u043D\u043D\u044B\u0439 \u043F\u0440\u043E\u043C\u044B\u0441\u043B\u043E\u0432\u044B\u0439 \u0432\u0438\u0434."@ru ,
+		"\uD669\uB2E4\uB791\uC5B4\uB294 \uACE0\uB4F1\uC5B4\uACFC\uC5D0 \uC18D\uD558\uB294 \uBB3C\uACE0\uAE30\uC774\uB2E4. \uC804 \uB300\uC591(\uD0DC\uD3C9\uC591, \uB300\uC11C\uC591, \uC778\uB3C4\uC591)\uC758 \uC5F4\uB300 \uBC0F \uC544\uC5F4\uB300 \uD574\uC5ED\uC5D0 \uAC78\uCCD0 \uAD11\uBC94\uC704\uD558\uAC8C \uBD84\uD3EC\uD55C\uB2E4."@ko ,
+		"\u0416\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439 \u0442\u0443\u043D\u0435\u0446\u044C (Thunnus albacares) \u2014 \u0432\u0438\u0434 \u0440\u0438\u0431 \u0440\u043E\u0434\u0438\u043D\u0438 \u0441\u043A\u0443\u043C\u0431\u0440\u0456\u0454\u0432\u0438\u0445 \u0440\u044F\u0434\u0443 \u043E\u043A\u0443\u043D\u0435\u043F\u043E\u0434\u0456\u0431\u043D\u0438\u0445, \u0449\u043E \u0433\u0440\u0430\u0454 \u0437\u043D\u0430\u0447\u043D\u0443 \u0440\u043E\u043B\u044C \u0432 \u0440\u0438\u0431\u043D\u0456\u0439 \u043F\u0440\u043E\u043C\u0438\u0441\u043B\u043E\u0432\u043E\u0441\u0442\u0456. \u0417\u0443\u0441\u0442\u0440\u0456\u0447\u0430\u0454\u0442\u044C\u0441\u044F \u0443 \u0432\u0441\u0456\u0445 \u0442\u0440\u043E\u043F\u0456\u0447\u043D\u0438\u0445 \u0456 \u043F\u043E\u043C\u0456\u0440\u043D\u0438\u0445 \u0448\u0438\u0440\u043E\u0442\u0430\u0445 \u0441\u0432\u0456\u0442\u043E\u0432\u0438\u0445 \u043E\u043A\u0435\u0430\u043D\u0456\u0432, \u043F\u0440\u043E\u0442\u0435 \u0432\u0456\u0434\u0441\u0443\u0442\u043D\u0456\u0439 \u0432 \u0421\u0435\u0440\u0435\u0434\u0437\u0435\u043C\u043D\u043E\u043C\u0443 \u043C\u043E\u0440\u0456. \u041E\u0431\u0438\u0434\u0432\u0430 \u0437\u0430\u0434\u043D\u0456 \u043F\u043B\u0430\u0432\u0446\u0456 \u0437\u0430\u0431\u0430\u0440\u0432\u043B\u0435\u043D\u0456 \u0432 \u044F\u0441\u043A\u0440\u0430\u0432\u0438\u0439 \u0436\u043E\u0432\u0442\u0438\u0439 \u043A\u043E\u043B\u0456\u0440, \u0449\u043E \u0434\u0430\u043B\u043E \u0446\u044C\u043E\u043C\u0443 \u0432\u0438\u0434\u0443 \u0439\u043E\u0433\u043E \u043D\u0430\u0437\u0432\u0443. \u0420\u0435\u0448\u0442\u0430 \u043A\u043E\u043B\u044C\u043E\u0440\u0456\u0432 \u0442\u0456\u043B\u0430 \u0432\u0430\u0440\u0456\u044E\u0454 \u0432\u0456\u0434 \u043C\u0435\u0442\u043B\u0435\u0432\u043E-\u0431\u043B\u0430\u043A\u0438\u0442\u043D\u043E\u0433\u043E \u043D\u0430 \u0441\u043F\u0438\u043D\u0456 \u0434\u043E \u0441\u0440\u0456\u0431\u043B\u044F\u0441\u0442\u043E\u0433\u043E \u043D\u0430 \u0436\u0438\u0432\u043E\u0442\u0456. \u041D\u0430 \u0436\u0438\u0432\u043E\u0442\u0456 \u0437\u043D\u0430\u0445\u043E\u0434\u044F\u0442\u044C\u0441\u044F 20 \u0432\u0435\u0440\u0442\u0438\u043A\u0430\u043B\u044C\u043D\u0438\u0445 \u043B\u0456\u043D\u0456\u0439. \u0420\u043E\u0437\u043C\u0456\u0440 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u043E\u0433\u043E \u0442\u0443\u043D\u0446\u044F \u0434\u043E\u0445\u043E\u0434\u0438\u0442\u044C \u0434\u043E 240 \u0441\u043C, \u0430 \u0432\u0430\u0433\u0430 \u0434\u043E 200 \u043A\u0433. \u0416\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439 \u0442\u0443\u043D\u0435\u0446\u044C \u043E\u0445\u043E\u0447\u0435 \u0433\u0440\u0443\u043F\u0443\u0454\u0442\u044C\u0441\u044F \u0437 \u0456\u043D\u0448\u0438\u043C\u0438 \u0440\u0438\u0431\u0430\u043C\u0438 \u0441\u0432\u043E\u0433\u043E \u0440\u043E\u0437\u043C\u0456\u0440\u0443, \u0437\u043E\u043A\u0440\u0435\u043C\u0430 \u0437 \u0456\u043D\u0448\u0438\u043C\u0438 \u0442\u0443\u043D\u0446\u044F\u043C\u0438. \u041D\u0430\u0439\u043A\u0440\u0443\u043F\u043D\u0456\u0448\u0456 \u0435\u043A\u0437\u0435\u043C\u043F\u043B\u044F\u0440\u0438 \u0456\u043D\u043E\u0434\u0456 \u0441\u043F\u043E\u0441\u0442\u0435\u0440\u0456\u0433\u0430\u044E\u0442\u044C\u0441\u044F \u0432 \u0433\u0440\u0443\u043F\u0430\u0445 \u0437 \u0434\u0435\u043B\u044C\u0444\u0456\u043D\u0430\u043C\u0438, \u043C\u043E\u0440\u0441\u044C\u043A\u0438\u043C\u0438 \u0441\u0432\u0438\u043D\u044F\u043C\u0438 \u0456 \u043A\u0438\u0442\u043E\u0432\u0438\u043C\u0438 \u0430\u043A\u0443\u043B\u0430\u043C\u0438. \u0407\u0436\u0430 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0445 \u0442\u0443\u043D\u0446\u0456\u0432 \u0441\u043A\u043B\u0430\u0434\u0430\u0454\u0442\u044C\u0441\u044F \u0437 \u0456\u043D\u0448\u0438\u0445 \u0440\u0438\u0431, \u0440\u0430\u043A\u043E\u043F\u043E\u0434\u0456\u0431\u043D\u0438\u0445 \u0456 \u043A\u0430\u043B\u044C\u043C\u0430\u0440\u0456\u0432. \u0423 \u043A\u043E\u043C\u0435\u0440\u0446\u0456\u0439\u043D\u043E\u043C\u0443 \u0440\u0438\u0431\u0430\u043B\u044C\u0441\u0442\u0432\u0456 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439 \u0442\u0443\u043D\u0435\u0446\u044C \u043B\u043E\u0432\u0438\u0442\u044C\u0441\u044F \u0437\u0430 \u0434\u043E\u043F\u043E\u043C\u043E\u0433\u043E\u044E \u0432\u0435\u043B\u0438\u0447\u0435\u0437\u043D\u0438\u0445 \u0442\u0435\u043D\u0435\u0442. \u041F\u0456\u0441\u043B\u044F \u0446\u044C\u043E\u0433\u043E \u0439\u043E\u0433\u043E \u0437\u0430\u043C\u043E\u0440\u043E\u0436\u0443\u044E\u0442\u044C \u0456 \u043F\u0440\u043E\u0434\u0430\u044E\u0442\u044C \u0432 \u043A\u043E\u043D\u0441\u0435\u0440\u0432\u0430\u0445. \u0427\u0435\u0440\u0435\u0437 \u0441\u0432\u043E\u044E \u0448\u0432\u0438\u0434\u043A\u0456\u0441\u0442\u044C \u0456 \u0440\u043E\u0437\u043C\u0456\u0440 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u0438\u0439 \u0442\u0443\u043D\u0435\u0446\u044C \u043F\u043E\u043F\u0443\u043B\u044F\u0440\u043D\u0438\u0439 \u0456 \u0441\u0435\u0440\u0435\u0434 \u0441\u043F\u043E\u0440\u0442\u0438\u0432\u043D\u0438\u0445 \u0440\u0438\u0431\u043E\u043B\u043E\u0432\u0456\u0432. \u0423 2010 \u0440\u043E\u0446\u0456 \u0431\u0443\u043B\u043E \u0432\u0438\u043B\u043E\u0432\u043B\u0435\u043D\u043E 558 761 \u043C\u0435\u0442\u0440\u0438\u0447\u043D\u0443 \u0442\u043E\u043D\u043D\u0443 \u0436\u043E\u0432\u0442\u043E\u043F\u0435\u0440\u043E\u0433\u043E \u0442\u0443\u043D\u0446\u044F \u0443 \u0437\u0430\u0445\u0456\u0434\u043D\u0456\u0439 \u0442\u0430 \u0446\u0435\u043D\u0442\u0440\u0430\u043B\u044C\u043D\u0438\u0439 \u0447\u0430\u0441\u0442\u0438\u043D\u0456 \u0422\u0438\u0445\u043E\u0433\u043E \u043E\u043A\u0435\u0430\u043D\u0443."@uk ,
+		"Der Gelbflossen-Thun (Thunnus albacares), auch Ahi genannt, ist eine Thunfischart und ein bedeutender Speisefisch. Er kommt in allen tropischen und gem\u00E4\u00DFigten Ozeanen und Meeren vor, jedoch nicht im Mittelmeer. International bekannt ist der Fisch vor allem unter dem Namen Ahi, das aus dem Hawaiischen stammt und f\u00FCr eine ganze Speisengattung stellvertretend ist (siehe ). Die zweite R\u00FCckenflosse und die Afterflosse sind beide strahlend gelb, woher der Thunfisch seinen Namen erhielt. Die Farben des K\u00F6rpers gehen von metallisch-blau am R\u00FCcken ins silberne auf dem Bauch \u00FCber. Auf dem Bauch befinden sich ebenfalls 20 vertikale Linien.Er wird bis zu 240 Zentimeter lang und 200 Kilogramm schwer. Der Gelbflossen-Thun gruppiert sich gerne mit anderen Fischen derselben Gr\u00F6\u00DFe, auch anderen Thunfischarten. Gr\u00F6\u00DFere Exemplare wurden auch mit Delfinen, Schweinswalen und Walhaien beobachtet. Die Nahrung des Gelbflossen-Thun besteht aus anderen Fischen, Krebstieren und Kalmaren. In der kommerziellen Fischerei wird der Gelbflossen-Thun mit Ringwaden und Langleinen gefangen. Er wird dann gr\u00F6\u00DFtenteils gefroren oder in Dosen verpackt verkauft. Der Gelbflossen-Thun ist auch bei Sportfischern wegen seiner Schnelligkeit und Gr\u00F6\u00DFe beliebt."@de ,
+		"Speiceas tuinn\u00EDn at\u00E1 forleathan in uisc\u00ED dromchlacha na farraige tr\u00F3paic\u00ED is measartha te. Suas le 2 m ar fhad, str\u00E1ice \u00F3rga ar feadh taobh na colainne, na heit\u00ED droma is an eite thimpireach bu\u00ED. Itheann s\u00E9 \u00E9isc dhromchlacha, ina measc \u00E9isc eitilte is preabair\u00ED chomh maith le scuideanna is cr\u00FAstaigh. Iascaireacht an-trom \u00E1 d\u00E9anamh air."@ga ,
+		"L'Albacore ou Thon jaune (Thunnus albacares) est une esp\u00E8ce de poissons de la famille des Scombridae. C'est un thon que l'on rencontre dans toutes les eaux des r\u00E9gions subtropicales et tropicales de la plan\u00E8te. Cette esp\u00E8ce p\u00E9lagique, absente de la Mer M\u00E9diterran\u00E9e, est fortement migratrice et se trouve g\u00E9n\u00E9ralement dans les cent premiers m\u00E8tres de profondeur. Le thon jaune est tr\u00E8s pris\u00E9 en p\u00EAche sportive pour sa combativit\u00E9."@fr .
+@prefix xsd:	<http://www.w3.org/2001/XMLSchema#> .
+dbr:Yellowfin_tuna	dbo:wikiPageLength	"24657"^^xsd:nonNegativeInteger .
+<http://dbpedia.org/resource/RV_John_R._Manning>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Costa_Rica_Thermal_Dome	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Cuisine_of_Hawaii	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Masked_booby	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Pemba_Channel	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Pasco_banks	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fishes_in_the_Red_Sea	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:International_Commission_for_the_Conservation_of_Atlantic_Tunas	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Kite_fishing	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Scombridae	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_near_threatened_fishes	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fishes_of_Florida	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+<http://dbpedia.org/resource/NOAAS_David_Starr_Jordan_(R_444)>	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Lumpia	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Marine_Mammal_Protection_Act	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_in_Alabama	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:National_Museum_of_Marine_Biology_and_Aquarium	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ornithoteuthis_antillarum	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Ornithoteuthis_volatilis	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Alepisaurus_ferox	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Bottarga	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:List_of_fishes_of_Great_Britain	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
+dbr:Fishing_in_Vanuatu	dbo:wikiPageWikiLink	dbr:Yellowfin_tuna .
