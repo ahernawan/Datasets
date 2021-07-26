@@ -1,0 +1,121 @@
+{
+  "head": {
+    "vars": [ "name" , "cert_number" , "foodCode" , "additives_clean" , "chemicalName" , "additive_name" , "halal" , "abstract" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e627" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Sodium Guanylate" } ,
+        "additive_name": { "type": "literal" , "value": "Disodium guanylate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal if it is obtained from sardines or baker's yeast extract. Mushbooh if it is made from brewer yeast extract, a by-product of beer making" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Disodium guanylate, also known as sodium 5'-guanylate and disodium 5'-guanylate, is a natural sodium salt of the flavor enhancing nucleotide guanosine monophosphate (GMP). Disodium guanylate is a food additive with the E number E627. It is commonly used in conjunction with glutamic acid. As it is a fairly expensive additive, it is not used independently of glutamic acid; if disodium guanylate is present in a list of ingredients but MSG does not appear to be, it is likely that glutamic acid is provided as part of another ingredient such as a processed soy protein complex. It is often added to foods in conjunction with disodium inosinate; the combination is known as disodium 5'-ribonucleotides. Disodium guanylate is produced from dried seaweed and is often added to instant noodles, potato chips and other snacks, savory rice, tinned vegetables, cured meats, and packaged soup." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e412" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Guar Gum" } ,
+        "additive_name": { "type": "literal" , "value": "Guar gum" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Guar gum, also called guaran, is a galactomannan polysaccharide extracted from guar beans that has thickening and stabilizing properties useful in food, feed, and industrial applications. The guar seeds are mechanically dehusked, hydrated, milled and screened according to application. It is typically produced as a free-flowing, off-white powder." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e101" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Riboflavin (Vitamin B2)" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Mushbooh (Haraam if from pork liver & Kidney, Halal if 100% plant material" }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e501" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Potassium Carbonate / Potassium Bicarbonate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e211" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Sodium Benzoate" } ,
+        "additive_name": { "type": "literal" , "value": "Sodium benzoate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Sodium benzoate is a substance which has the chemical formula C6H5COONa. It is a widely used food pickling agent, with an E number of E211. It is the sodium salt of benzoic acid and exists in this form when dissolved in water. It can be produced by reacting sodium hydroxide with benzoic acid." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e330" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Citric Acid" } ,
+        "additive_name": { "type": "literal" , "value": "Citric acid" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Citric acid is an organic compound with the chemical formula HOC(CO2H)(CH2CO2H)2. Usually encountered as a white solid, it is a weak organic acid. It occurs naturally in citrus fruits. In biochemistry, it is an intermediate in the citric acid cycle, which occurs in the metabolism of all aerobic organisms. More than two million tons of citric acid are manufactured every year. It is used widely as an acidifier, as a flavoring, and a chelating agent. A citrate is a derivative of citric acid; that is, the salts, esters, and the polyatomic anion found in solution. An example of the former, a salt is trisodium citrate; an ester is triethyl citrate. When part of a salt, the formula of the citrate anion is written as C6H5O3−7 or C3H5O(COO)3−3." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e551" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Silicon Dioxide (Silica Salt)" } ,
+        "additive_name": { "type": "literal" , "value": "Silicon dioxide" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Silicon dioxide, also known as silica, is an oxide of silicon with the chemical formula SiO2, most commonly found in nature as quartz and in various living organisms. In many parts of the world, silica is the major constituent of sand. Silica is one of the most complex and most abundant families of materials, existing as a compound of several minerals and as a synthetic product. Notable examples include fused quartz, fumed silica, silica gel, and aerogels. It is used in structural materials, microelectronics (as an electrical insulator), and as components in the food and pharmaceutical industries." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e631" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Sodium Inosinate" } ,
+        "additive_name": { "type": "literal" , "value": "Disodium inosinate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal if it is obtained from sardines. Mushbooh if it is made from brewer yeast extract, a by-product of beer making. Haraam if it is extracted from pig meat." } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Disodium inosinate (E631) is the disodium salt of inosinic acid with the chemical formula C10H11N4Na2O8P. It is used as a food additive and often found in instant noodles, potato chips, and a variety of other snacks. Although it can be obtained from bacterial fermentation of sugars, it is often commercially prepared from animal products." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e621" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Monosodium Glutamate (MSG)" } ,
+        "additive_name": { "type": "literal" , "value": "Monosodium glutamate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Mushbooh, Halal if all ingredients including culture media to grow culture from Halal source, Haraam if media is from pork fat" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Monosodium glutamate (MSG), also known as sodium glutamate, is the sodium salt of glutamic acid. MSG is found naturally in some foods including tomatoes and cheese. MSG is used in cooking as a flavor enhancer with an umami taste that intensifies the meaty, savory flavor of food, as naturally occurring glutamate does in foods such as stews and meat soups. MSG was first prepared in 1908 by Japanese biochemist Kikunae Ikeda, who was trying to isolate and duplicate the savory taste of kombu, an edible seaweed used as a base for many Japanese soups. MSG balances, blends, and rounds the perception of other tastes. MSG is commonly used and found in stock (bouillon) cubes, soups, ramen, gravy, stews, condiments, savory snacks, etc. The U.S. Food and Drug Administration has given MSG its generally recognized as safe (GRAS) designation. It is a popular belief that MSG can cause headaches and other feelings of discomfort, known as \"Chinese restaurant syndrome\", but blinded studies show no such effects when MSG is combined with food in normal concentrations, and are inconclusive when MSG is added to broth in large concentrations. The European Union classifies it as a food additive permitted in certain foods and subject to quantitative limits. MSG has the HS code 29224220 and the E number E621." }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e223" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Sodium Metabisulphite" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e500" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Sodium Carbonate / Sodium Bicarbonate" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" }
+      } ,
+      {
+        "name": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "Indomie (Jumbo) Mi Instan Goreng" } ,
+        "cert_number": { "datatype": "http://www.w3.org/2001/XMLSchema#string" , "type": "typed-literal" , "value": "00090000300799" } ,
+        "foodCode": { "type": "literal" , "value": "089686041705" } ,
+        "additives_clean": { "type": "literal" , "value": "e260" } ,
+        "chemicalName": { "type": "literal" , "xml:lang": "en" , "value": "Acetic Acid" } ,
+        "additive_name": { "type": "literal" , "value": "Acetic acid" } ,
+        "halal": { "type": "literal" , "xml:lang": "en" , "value": "Halal" } ,
+        "abstract": { "type": "literal" , "xml:lang": "en" , "value": "Acetic acid /əˈsiːtɪk/, systematically named ethanoic acid /ˌɛθəˈnoʊɪk/, is an acidic, colourless liquid and organic compound with the chemical formula CH3COOH (also written as CH3CO2H, C2H4O2, or HC2H3O2). Vinegar is no less than 4% acetic acid by volume, making acetic acid the main component of vinegar apart from water. Acetic acid is the second simplest carboxylic acid (after formic acid). It is an important chemical reagent and industrial chemical, used primarily in the production of cellulose acetate for photographic film, polyvinyl acetate for wood glue, and synthetic fibres and fabrics. In households, diluted acetic acid is often used in descaling agents. In the food industry, acetic acid is controlled by the food additive code E260 as an acidity regulator and as a condiment. In biochemistry, the acetyl group, derived from acetic acid, is fundamental to all forms of life. When bound to coenzyme A, it is central to the metabolism of carbohydrates and fats. The global demand for acetic acid is about 6.5 million metric tons per year (Mt/a), of which approximately 1.5 Mt/a is met by recycling; the remainder is manufactured from methanol. Vinegar is mostly dilute acetic acid, often produced by fermentation and subsequent oxidation of ethanol." }
+      }
+    ]
+  }
+}
